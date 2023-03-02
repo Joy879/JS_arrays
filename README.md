@@ -18,7 +18,7 @@ Perform this operation on them
     			fruit[2] = "orange";
     			return fruit;
 		}
-    ```
+```
 Write a function that accepts an array of numbers as an argument. Return the maximum value in the array.
 e.g., max([4, 5, 10, -2]) // maximum value is 10
 

@@ -5,9 +5,9 @@ List 5 array methods that fall under each of them.
 
 Mutating methods actually modify the array itself while non-mutation methods do not modify nut instead create a copy of the original array and modify its contents.
 
-| Mutating methods | Non-mutating methods |
-|------------------|---------------|
-| modify the array itself|  create a copy of the original array and modify its contents|
+|| Mutating methods | Non-mutating methods |
+|---|------------------|---------------|
+|Difference| modify the array itself|  create a copy of the original array and modify its contents|
 
 
 

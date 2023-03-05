@@ -1,6 +1,8 @@
 // What are the differences between mutating array methods and non-mutation array methods in JavaScript.
 // List 5 array methods that fall under each of them.
 
+//Answer in README
+
 const languages = ['C#', 'JavaScript', 'Ruby', 'PHP', 'Python']
 
 // Add ‘Kotlin’ to the end of the array

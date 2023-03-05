@@ -7,10 +7,10 @@ List 5 array methods that fall under each of them.
 |---|------------------|---------------|
 |Difference| modify the array itself|  create a copy of the original array and modify its contents|
 | Examples |  ```push()```
-```pop()```
-```unshift()```
-```shift()``` ||
-```splice()```
+				```pop()```
+				```unshift()```
+				```shift()``` 
+				```splice()```||
 
 
 

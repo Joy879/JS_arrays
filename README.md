@@ -8,6 +8,7 @@ Mutating methods actually modify the array itself while non-mutation methods do 
 || Mutating methods | Non-mutating methods |
 |---|------------------|---------------|
 |Difference| modify the array itself|  create a copy of the original array and modify its contents|
+| Examples | ||s
 
 
 

@@ -6,7 +6,11 @@ List 5 array methods that fall under each of them.
 || Mutating methods | Non-mutating methods |
 |---|------------------|---------------|
 |Difference| modify the array itself|  create a copy of the original array and modify its contents|
-| Examples | * ```push()``` ||
+| Examples |  ```push()```
+```pop()```
+```unshift()```
+```shift()``` ||
+```splice()```
 
 
 

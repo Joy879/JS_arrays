@@ -3,21 +3,19 @@
 
 const languages = ['C#', 'JavaScript', 'Ruby', 'PHP', 'Python']
 
-//Perform this operation on them 
 // Add ‘Kotlin’ to the end of the array
-// Add ‘Java’ after ‘Ruby’
-// Remove the first item in the array
-// Add ’Scala’ and ‘Swift’ to the beginning of the array
-// Replace ‘PHP’ with ‘Go’ and ‘Rust'
-
 languages.push('Kotlin')
 console.log(languages)
+// Add ‘Java’ after ‘Ruby’
 languages.splice(3, 0, "Java")
 console.log(languages)
+// Remove the first item in the array
 languages.splice(0, 1)
 console.log(languages)
+// Add ’Scala’ and ‘Swift’ to the beginning of the array
 languages.splice(0, 0, "Scala", "Swift")
 console.log(languages)
+// Replace ‘PHP’ with ‘Go’ and ‘Rust'
 languages.splice(5, 1, "Go", "Rust")
 console.log(languages)
 
@@ -48,7 +46,7 @@ maxnumber([4, 5, 10, -2])
 function valTimesIndex(array){
     newarray = new Array();
     for (var i = 0; i < array.length; i++) { 
-        res =array[i]*i
+        res = array[i]*i
         newarray.push(res);
     }
     return console.log(newarray)

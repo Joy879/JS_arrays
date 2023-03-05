@@ -12,7 +12,9 @@ Perform this operation on them
 * Remove the first item in the array
 * Add ’Scala’ and ‘Swift’ to the beginning of the array
 * Replace ‘PHP’ with ‘Go’ and ‘Rust’
-* What will be the value of fruit after calling the function changeFruit?
+
+
+What will be the value of fruit after calling the function changeFruit?
 ```let fruit = ['apple', 'mango', 'banana'];
 		function changeFruit( fruit ) {
     			fruit[2] = "orange";

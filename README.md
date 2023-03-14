@@ -23,7 +23,8 @@ Perform this operation on them
 
 
 What will be the value of fruit after calling the function changeFruit?
-```let fruit = ['apple', 'mango', 'banana'];
+```js
+let fruit = ['apple', 'mango', 'banana'];
 		function changeFruit( fruit ) {
     			fruit[2] = "orange";
     			return fruit;

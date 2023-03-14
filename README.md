@@ -6,9 +6,7 @@ List 5 array methods that fall under each of them.
 || Mutating methods | Non-mutating methods |
 |---|------------------|---------------|
 |Difference| modify the array itself|  create a copy of the original array and modify its contents|
-| Examples |  ```js 
-push()```|```js
-slice()```|
+| Examples |  ```push()```|```slice()```|
 | Examples |```pop()```|```join()```|
 | Examples |```unshift()```|```includes()```|
 | Examples |```shift()``` |```filter()```|

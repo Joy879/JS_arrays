@@ -25,10 +25,10 @@ Perform this operation on them
 What will be the value of fruit after calling the function changeFruit?
 ```js
 let fruit = ['apple', 'mango', 'banana'];
-		function changeFruit( fruit ) {
-    			fruit[2] = "orange";
-    			return fruit;
-		}
+function changeFruit( fruit ) {
+	fruit[2] = "orange";
+	return fruit;
+}
 ```
 Write a function that accepts an array of numbers as an argument. Return the maximum value in the array.
 e.g., max([4, 5, 10, -2]) // maximum value is 10
